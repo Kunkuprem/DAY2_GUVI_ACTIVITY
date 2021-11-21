@@ -1,0 +1,107 @@
+Execute the below code and write your description in txt file
+
+
+1.console.log(typeof(1));
+
+output is number 
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(1) is an integer so it shows number  
+
+In JavaScript there are 5 different data types that can contain values:
+
+    string
+    number
+    boolean
+    object
+    function
+
+---------------------------------------------------------------------------------------------
+2.console.log(typeof(1.1));
+
+output is number 
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(1.1) is an integer but has floating number decimal values but it is also integer so it shows number  
+---------------------------------------------------------------------------------------------
+3.console.log(typeof('1.1'));
+
+output is string
+
+Description:
+
+
+typeof is used to identify datatype of the variable.typeof('1.1') is a string because any thing comes under " " or ' ' so it shows string  
+----------------------------------------------------------------------------------------------------
+4.console.log(typeof(true));
+
+output is boolean
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(true) is an boolean because it shows true or false
+
+--------------------------------------------------------------------------------------------------------
+5.console.log(typeof(null));
+
+output is object
+
+And 2 data types that cannot contain values:
+
+    null
+    undefined
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(null) .it is object because it assigns some values but it is null
+---------------------------------------------------------------------------------------------------------
+6.console.log(typeof(undefined));
+
+output is undefined
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(undefined) 
+In JavaScript, a variable without a value, has the value undefined. The type is also undefined.
+-----------------------------------------------------------------------------------------------------------
+7.console.log(typeof([]));
+
+output is object
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof([]) is an array that comes under object 
+ 
+There are 6 types of objects:
+
+    Object
+    Date
+    Array
+    String
+    Number
+    Boolean
+--------------------------------------------------------------------------------------------------------------
+8.console.log(typeof({}));
+
+output is object
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof({}) is an object  
+--------------------------------------------------------------------------------------------------------------
+9.console.log(typeof(NaN));
+
+output is number
+
+Description:
+
+typeof is used to identify datatype of the variable.typeof(NaN) 
+
+NaN-Not an Number.
+
+
+
+
+
